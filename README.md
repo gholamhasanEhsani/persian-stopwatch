@@ -7,3 +7,4 @@
 ## links
 - gholamhasan ehsani page on github: [@github/gholamhasanEhsani](https://github.com/gholamhasanEhsani)
 - [Project Page](https://github.com/gholamhasanEhsani/persian-stopwatch)
+- [English Project Page](https://github.com/gholamhasanEhsani/english-stopwatch)
